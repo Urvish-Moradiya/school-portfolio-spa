@@ -26,12 +26,13 @@ A modern and aesthetic single-page application (SPA) built using **TypeScript** 
 | Icons          | Lucide React / React Icons    |
 | Styling        | TailwindCSS                   |
 
+---
 ## 🧠 Future Improvements
-Add backend support for contact form submission
+- Add backend support for contact form submission
 
-Dynamic content from CMS (e.g., Strapi or Firebase)
+- Dynamic content from CMS (e.g., Strapi or Firebase)
 
-Admin panel for content editing
+- Admin panel for content editing
 
-SEO optimization for school discoverability
+- SEO optimization for school discoverability
 
