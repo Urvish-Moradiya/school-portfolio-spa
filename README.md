@@ -1,6 +1,7 @@
 # 🎓 School Portfolio Website (SPA)
 
-A modern, fully responsive single-page application (SPA) designed for schools to showcase their campus, academics, faculty, and student achievements. Built using **React**, this site delivers a smooth and interactive user experience with visually appealing layouts and dynamic sections.
+A modern and aesthetic single-page application (SPA) built using **TypeScript** and **shadcn/ui**. This project is designed for schools to professionally showcase their academics, campus, faculty, events, and contact details. It emphasizes user experience, clean UI components, and mobile responsiveness.
+
 
 ---
 
@@ -15,17 +16,17 @@ A modern, fully responsive single-page application (SPA) designed for schools to
 - 📱 **Fully Responsive**: Works seamlessly on mobile, tablet, and desktop.
 
 ---
+## 🧰 Tech Stack
 
-## 🛠 Tech Stack
+| Category       | Tech Used                     |
+|----------------|-------------------------------|
+| Frontend       | React + Vite + TypeScript     |
+| UI Components  | [shadcn/ui](https://ui.shadcn.com/) |
+| Routing        | React Router DOM              |
+| Icons          | Lucide React / React Icons    |
+| Styling        | TailwindCSS                   |
 
-- **Frontend**: React, React Router DOM
-- **Styling**: CSS Modules / TailwindCSS *(mention whichever is used)*
-- **Icons**: [react-icons](https://react-icons.github.io/react-icons)
-- **Deployment**: Netlify / Vercel / GitHub Pages *(add your method)*
-
----
-
-🧠 Future Improvements
+## 🧠 Future Improvements
 Add backend support for contact form submission
 
 Dynamic content from CMS (e.g., Strapi or Firebase)
